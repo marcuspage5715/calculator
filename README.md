@@ -1,0 +1,1 @@
+This is a simple calculator that only performs addition, subtraction, multiplication, and division functions. It was written in Python, and eliminates the need to select an operator from a menu before performing the computation.
